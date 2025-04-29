@@ -25,3 +25,10 @@ Im a passionate Software Developer<br>Expertise in full stack<br>Languages - Rea
 [![](https://visitcount.itsvg.in/api?id=Vishnu&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
